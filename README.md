@@ -8,6 +8,8 @@ This project aims to analyze user interactions on ChatData sites to gain insight
 
 To understand the structure of the database, we've created an Entity Relationship Diagram (ERD). You can view the ERD in the [ERD Diagram](link-to-your-ERD-image) image.
 
+![ERD Diagram](Chow_HonFai_1_ERD_05092023.png)
+
 ## Data Sources
 
 The dataset for this analysis consists of three separate CSV files:
