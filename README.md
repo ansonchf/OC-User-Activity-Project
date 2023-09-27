@@ -40,5 +40,5 @@ For best practices and guidelines on working with ChatData's data, I refer to th
 
 ## Results Presentation
 
-The results of this analysis will be presented in the `chat_data.ipynb` notebook and 'slide_show' ppt.
+The results of this analysis will be presented in the `chat_data.ipynb` notebook and `slide_show` ppt.
 
