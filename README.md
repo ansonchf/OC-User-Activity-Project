@@ -6,7 +6,7 @@ This project aims to analyze user interactions on ChatData sites to gain insight
 
 ## Entity Relationship Diagram (ERD)
 
-To understand the structure of the database, we've created an Entity Relationship Diagram (ERD). You can view the ERD below.
+To understand the structure of the database, we've created an Entity Relationship Diagram, which can be viewed below.
 ![ERD Diagram](Chow_HonFai_1_ERD_05092023.png)
 
 ## Data Sources
@@ -30,7 +30,7 @@ For best practices and guidelines on working with ChatData's data, I refer to th
 
 ## Project Workflow
 
-1. **ERD Creation**: Start by creating an Entity Relationship Diagram (ERD) to understand the database structure.
+1. **ERD Creation**: Start by creating an Entity Relationship Diagram to understand the database structure.
 
 2. **Database Setup**: Use SQLite to create the database and load the data from the CSV files. Refer to the Data Loading section in the Jupyter Notebook for guidance.
 
